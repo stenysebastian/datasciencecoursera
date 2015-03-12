@@ -1,2 +1,2 @@
 # datasciencecoursera
-Sedans Data Science Coursera
+Sebans Data Science Coursera
